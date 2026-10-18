@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmv4skzmh0fmv01n08rjjfkpv). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A custom 3D-printed marble race, designed from scratch! You'll learn how to design your own course and make cool tracks.
+> Trying to make my own marble race
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
