@@ -5,8 +5,6 @@ making a merbl
 <img width="1917" height="858" alt="7" src="https://github.com/user-attachments/assets/bdc31e79-8c50-4f87-a283-3f1bea894c4f" />
 <img width="1347" height="829" alt="6" src="https://github.com/user-attachments/assets/bf883a4a-d4fe-4dbc-aa66-81430ce3e00d" />
 <img width="1910" height="943" alt="5" src="https://github.com/user-attachments/assets/40eaca4b-e543-4f9a-8c41-3d4ca7bb473f" />
-<img width="1919" height="943" alt="4" src="https://github.com/user-attachments/assets/043ec613-ab01-4354-9752-268ac56bec2b" />
-<img width="1919" height="952" alt="3" src="https://github.com/user-attachments/assets/5f882645-224e-4322-b46b-1be31e5c5f65" />
 <img width="1904" height="884" alt="2" src="https://github.com/user-attachments/assets/ec8a99d3-6279-4157-b564-2c4d673c78d0" />
 <img width="1334" height="784" alt="1" src="https://github.com/user-attachments/assets/d6c1ab08-4d67-4e10-ade7-fe16340b9037" />
 <img width="1075" height="742" alt="18" src="https://github.com/user-attachments/assets/1494db45-2cb0-47a7-a660-60cc29d88412" />
