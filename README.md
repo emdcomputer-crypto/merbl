@@ -12,6 +12,18 @@ The marble starts in a curved path then it drops into the funnel. It travels thr
 The course is made from separate components. The supports remain separate from the tracks and base so they can be printed, assembled, repaired, and modified individually.
 
 
+## Bill of Materials
+
+| Part | What it is used for | Quantity | Price | Vendor |
+|---|---|---:|---:|---|
+| Printing | Printingthepart | 1 | $15.00 (not fully sure got a quote from the bot ) | printerlegion | https://hackclub.enterprise.slack.com/archives/C083P4FJM46 |
+
+- Parts subtotal: **$15**
+- Tax and shipping: **$15** (Don't know as the bot only gave a quote this is an estimate)
+- Total: **$30**
+
+
+
 ## What I learned and what I fixed
 
 well first of all i learned how to create 3d models made mistakes learned some stuff like tracks faces and profiles learned also some basic and cool functions to make any 3d model wich is a usefull skill i needed because if i get that 3d printer i will be making enclosures for my projects 
