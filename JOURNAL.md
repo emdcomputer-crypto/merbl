@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 22.3h | 7 |
+| Week 2 | Tier 1 | 22.5h | 7 |
 
 ## Contents
 
@@ -46,7 +46,7 @@ I made a cylinder in the centre 35 mm outer diametre and 25 inner diametre still
 
 ### 2026-10-18 – Decided to scrap the old project because it got confusing and i messed up to much  so i  started working on a new one i made a funnel and the marble with 8 mm diameter after that i plan on making a co
 
-**1.8h**
+**2h**
 
 Decided to scrap the old project because it got confusing and i messed up to much  so i  started working on a new one i made a funnel and the marble with 8 mm diameter after that i plan on making a couple of paths a plinko and stair path
 
