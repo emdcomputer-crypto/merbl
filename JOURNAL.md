@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 22.5h | 7 |
+| Week 2 | Tier 1 | 17.52h | 7 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 4. [2026-10-18 – I made the plinko path following the guide, at first it looked complicated but it really wasn't tha hard the hard one tho was the curved path as i encoutered different problems wich made me delete som](#2026-10-18-i-made-the-plinko-path-following-the-guide-at-fir)
 5. [2026-10-18 – And finally after a long time of working i was able to assemble everything together of course still encountered lots of problems like rotation problems where i had to redo certain part due to it being](#2026-10-18-and-finally-after-a-long-time-of-working-i-was-ab)
 6. [2026-10-18 – Finally i finished it took measurements made a base added different supports fixed a couple of stuff tested each section with the marble to make sure and finally everything is done now all i have to d](#2026-10-18-finally-i-finished-it-took-measurements-made-a-ba)
-7. [2026-10-22 – After some work i finally got the board to look how i wanted it to i routed Everything leaving 0 unrouted parts optimized the tracks by avoiding 90 degrees angles and instead using two 45 degree angle](#2026-10-22-after-some-work-i-finally-got-the-board-to-look-h)
+7. [2026-10-22 – I accidentaly created this i wanted to create it for another poject but ended up creating it here and i cant delete it for some reason i tried everything but cant find any way or button to delete this](#2026-10-22-i-accidentaly-created-this-i-wanted-to-create-it-)
 
 ## Design
 
@@ -96,18 +96,12 @@ Finally i finished it took measurements made a base added different supports fix
 
 ![18](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/947ddb869b05ba2e0f6e1c1e7d83917056e04a20cbbdd8d83b2248c282198714.png)
 
-### 2026-10-22 – After some work i finally got the board to look how i wanted it to i routed Everything leaving 0 unrouted parts optimized the tracks by avoiding 90 degrees angles and instead using two 45 degree angle
+### 2026-10-22 – I accidentaly created this i wanted to create it for another poject but ended up creating it here and i cant delete it for some reason i tried everything but cant find any way or button to delete this
 
-**5h**
+**0.02h**
 
-After some work i finally got the board to look how i wanted it to i routed Everything leaving 0 unrouted parts optimized the tracks by avoiding 90 degrees angles and instead using two 45 degree angles if necessary at the start i didn't realise that the pcb's shape was uneven and not symmetrical also fixed that, then added a fillet to all angles of the pcb to make it look better, made sure to not touch the capacitive touch buttons with the gnd fill so i made it around it to avoid it picking up eletrical noise (the guide said that) and finally i finished by adding some icons and custom stuff in the silkscreen layer now that i finished the work i have to make the github the BOM and all the files
+I accidentaly created this i wanted to create it for another poject but ended up creating it here and i cant delete it for some reason i tried everything but cant find any way or button to delete this entry so i will just put plank pictures
 
-![12](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/c7d582cacee7702e031ea629bc036901af1024e780f9fd457a132a8cf675b519.png)
+![Screenshot 2026-10-22 164220](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/5b8630f2d8535c8c39636550cef02bb7b4c89fb5743a3939a93b69d198147410.png)
 
-![13](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/6a37ce74064d7556ce4c392b7a65199582a29627c19ee9f3d3e52622b9861928.png)
-
-![14](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/a74bd45bd6776332009af1a0874e49eca7b099c10208f2c07dc6eab75bc1e9a1.png)
-
-![15](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/558b4523840d8a790b4e38d5d9ef3fd4b35c18e57c9a6961631bcebcaf20b74e.png)
-
-![16](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/1c32b7d644ae1f25022eb881f2e1c1d9c6bd11355eccf70364af03ea6e5c6037.png)
+![Screenshot 2026-10-22 164239](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/375b8d7f4ab84f2f40dbea05362fe418e010b7bd3bef289ebcf087ccc9bd557c.png)
