@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 22.1h | 7 |
+| Week 2 | Tier 1 | 22.3h | 7 |
 
 ## Contents
 
@@ -72,7 +72,7 @@ I made the plinko path following the guide, at first it looked complicated but i
 
 ### 2026-10-18 – And finally after a long time of working i was able to assemble everything together of course still encountered lots of problems like rotation problems where i had to redo certain part due to it being
 
-**3.8h**
+**4h**
 
 And finally after a long time of working i was able to assemble everything together of course still encountered lots of problems like rotation problems where i had to redo certain part due to it being in the wrong facing thus making it face the wrong way making the transform tool useless as it rotates in the wrong axis, now all that remains is i put some supports, a base and that's it
 
