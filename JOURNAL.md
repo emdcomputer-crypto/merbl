@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 21.1h | 7 |
+| Week 2 | Tier 1 | 22.1h | 7 |
 
 ## Contents
 
@@ -98,7 +98,7 @@ Finally i finished it took measurements made a base added different supports fix
 
 ### 2026-10-22 – After some work i finally got the board to look how i wanted it to i routed Everything leaving 0 unrouted parts optimized the tracks by avoiding 90 degrees angles and instead using two 45 degree angle
 
-**4h**
+**5h**
 
 After some work i finally got the board to look how i wanted it to i routed Everything leaving 0 unrouted parts optimized the tracks by avoiding 90 degrees angles and instead using two 45 degree angles if necessary at the start i didn't realise that the pcb's shape was uneven and not symmetrical also fixed that, then added a fillet to all angles of the pcb to make it look better, made sure to not touch the capacitive touch buttons with the gnd fill so i made it around it to avoid it picking up eletrical noise (the guide said that) and finally i finished by adding some icons and custom stuff in the silkscreen layer now that i finished the work i have to make the github the BOM and all the files
 
@@ -109,3 +109,5 @@ After some work i finally got the board to look how i wanted it to i routed Ever
 ![14](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/a74bd45bd6776332009af1a0874e49eca7b099c10208f2c07dc6eab75bc1e9a1.png)
 
 ![15](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/558b4523840d8a790b4e38d5d9ef3fd4b35c18e57c9a6961631bcebcaf20b74e.png)
+
+![16](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/1c32b7d644ae1f25022eb881f2e1c1d9c6bd11355eccf70364af03ea6e5c6037.png)
