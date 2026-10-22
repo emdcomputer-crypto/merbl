@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 22.5h | 7 |
+| Week 2 | Tier 1 | 23h | 7 |
 
 ## Contents
 
@@ -26,7 +26,7 @@
 
 ### 2026-10-18 – Well i started watching some tutorials and the guide but honestly the guide is hard to follow because it's not "linear" like i mean the guide only shows how to make certain sections and parts its like
 
-**1.5h**
+**2h**
 
 Well i started watching some tutorials and the guide but honestly the guide is hard to follow because it's not "linear" like i mean the guide only shows how to make certain sections and parts its like a guide filled with lots of mini guides inside wich is not really helpfull if you don't know where to start and how to put togheter all of these parts but yeah i started by making a 100*100 cube and a simple path wich took me a while as understading the guide was hard
 
