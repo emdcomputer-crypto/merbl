@@ -9,7 +9,8 @@ Merbl is a custom 3D-printed marble race designed from scratch in Onshape. The c
 
 The marble starts in a curved path then it drops into the funnel. It travels through the custom path, passes through the plinko section, continues through the curved track, and finishes at the collection area near the bottom of the base.
 
-The course is made from separate components. The supports remain separate from the tracks and base so they can be printed, assembled, repaired, and modified individually.
+The course is made from separate components. The supports remain separate from the tracks but make sure they are attached to the base and unless you are printing everything individually also they are supposed to keep stable whatever they are supporting just in case you want to do modifications here is a link.
+https://oauth.onshape.com/documents/be9b93f0f68e53a2b7c684d2/w/a70c4c0481c964a53015db0a/e/b5e0fc95a74274c1af99fdd7
 
 
 ## Bill of Materials
