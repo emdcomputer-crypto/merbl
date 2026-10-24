@@ -30,9 +30,9 @@
 
 Well i started watching some tutorials and the guide but honestly the guide is hard to follow because it's not "linear" like i mean the guide only shows how to make certain sections and parts its like a guide filled with lots of mini guides inside wich is not really helpfull if you don't know where to start and how to put togheter all of these parts but yeah i started by making a 100*100 cube and a simple path wich took me a while as understading the guide was hard
 
-![1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/4d0a83abfa11ca6389658a2cd0d8597109f5fcbe781aa567e6514b8ded16c7fb.png)
+![1](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/4d0a83abfa11ca6389658a2cd0d8597109f5fcbe781aa567e6514b8ded16c7fb.png)
 
-![2](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/624bc2c2e172f550585150c2767095f7673d3856c655b51672d98ec5c9de5b12.png)
+![2](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/624bc2c2e172f550585150c2767095f7673d3856c655b51672d98ec5c9de5b12.png)
 
 ### 2026-10-18 – I made a cylinder in the centre 35 mm outer diametre and 25 inner diametre still tho i don't know what im doing and very confused as trying to do anything just breaks a lot of other stuff for example
 
@@ -40,9 +40,9 @@ Well i started watching some tutorials and the guide but honestly the guide is h
 
 I made a cylinder in the centre 35 mm outer diametre and 25 inner diametre still tho i don't know what im doing and very confused as trying to do anything just breaks a lot of other stuff for example im currently trying to rotate the path i made but it doesn't let me
 
-![3](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/aafbf16e667ca8ed120f508b9781d5d39dc6f9e484254713684162615903b2c5.png)
+![3](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/aafbf16e667ca8ed120f508b9781d5d39dc6f9e484254713684162615903b2c5.png)
 
-![4](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/b4a9094683460cd0797e6106e2f868d3601a9a312d3ec9b80bdf2b92c9a69043.png)
+![4](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/b4a9094683460cd0797e6106e2f868d3601a9a312d3ec9b80bdf2b92c9a69043.png)
 
 ### 2026-10-18 – Decided to scrap the old project because it got confusing and i messed up to much  so i  started working on a new one i made a funnel and the marble with 8 mm diameter after that i plan on making a co
 
@@ -50,9 +50,9 @@ I made a cylinder in the centre 35 mm outer diametre and 25 inner diametre still
 
 Decided to scrap the old project because it got confusing and i messed up to much  so i  started working on a new one i made a funnel and the marble with 8 mm diameter after that i plan on making a couple of paths a plinko and stair path
 
-![5](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/9caa0aa911576bf587c976d922d7cbd8ee794d903e0a467272753fd45ef90419.png)
+![5](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/9caa0aa911576bf587c976d922d7cbd8ee794d903e0a467272753fd45ef90419.png)
 
-![6](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/215e204de50ef3dcda23ea774e06555cf100458cc41072337bd9cd45183c9e28.png)
+![6](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/215e204de50ef3dcda23ea774e06555cf100458cc41072337bd9cd45183c9e28.png)
 
 ### 2026-10-18 – I made the plinko path following the guide, at first it looked complicated but it really wasn't tha hard the hard one tho was the curved path as i encoutered different problems wich made me delete som
 
@@ -60,15 +60,15 @@ Decided to scrap the old project because it got confusing and i messed up to muc
 
 I made the plinko path following the guide, at first it looked complicated but it really wasn't tha hard the hard one tho was the curved path as i encoutered different problems wich made me delete some sketches and restart but thanfully i finished
 
-![7](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/772b5815612e19f74e49530a599d5b0e63a381248e2899b5c5065fe1a500e4ff.png)
+![7](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/772b5815612e19f74e49530a599d5b0e63a381248e2899b5c5065fe1a500e4ff.png)
 
-![8](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/4f786096f13df4f70c22a804447517bfebfb3eeacec44e45bd11b8bbef02240f.png)
+![8](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/4f786096f13df4f70c22a804447517bfebfb3eeacec44e45bd11b8bbef02240f.png)
 
-![9](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/7ba99124d99a955bdeb4e99c14cab5430bcf9c8a7d259bd61f2f96e21792d1a8.png)
+![9](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/7ba99124d99a955bdeb4e99c14cab5430bcf9c8a7d259bd61f2f96e21792d1a8.png)
 
-![10](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/e86fd3488f2c431b808092189c162cae8fb745490342dd5d842e9e1cd389e750.png)
+![10](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/e86fd3488f2c431b808092189c162cae8fb745490342dd5d842e9e1cd389e750.png)
 
-![11](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/0f3b54996007ecf107460b4e76fc2fe013ea189d67f6411dd5886fdec699f31e.png)
+![11](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/0f3b54996007ecf107460b4e76fc2fe013ea189d67f6411dd5886fdec699f31e.png)
 
 ### 2026-10-18 – And finally after a long time of working i was able to assemble everything together of course still encountered lots of problems like rotation problems where i had to redo certain part due to it being
 
@@ -76,13 +76,13 @@ I made the plinko path following the guide, at first it looked complicated but i
 
 And finally after a long time of working i was able to assemble everything together of course still encountered lots of problems like rotation problems where i had to redo certain part due to it being in the wrong facing thus making it face the wrong way making the transform tool useless as it rotates in the wrong axis, now all that remains is i put some supports, a base and that's it
 
-![12](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/927d0cd95fb672b165edd847968fe2d12ae0278e5dfddb4f63ce28f9bdc0e51b.png)
+![12](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/927d0cd95fb672b165edd847968fe2d12ae0278e5dfddb4f63ce28f9bdc0e51b.png)
 
-![13](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/7eb0514a0f5835f4dbf47450f558340089c667420f43e4ed5539b2dd476ac8ad.png)
+![13](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/7eb0514a0f5835f4dbf47450f558340089c667420f43e4ed5539b2dd476ac8ad.png)
 
-![14](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/d0780828cea3535a03bd0e43a12d7084e2d38c6360257ddf21fe43902158cd12.png)
+![14](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/d0780828cea3535a03bd0e43a12d7084e2d38c6360257ddf21fe43902158cd12.png)
 
-![15](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/49d85ff45fde627064c98120e5e1f27d0903684552dfe4be353d32ce003fce8b.png)
+![15](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/49d85ff45fde627064c98120e5e1f27d0903684552dfe4be353d32ce003fce8b.png)
 
 ### 2026-10-18 – Finally i finished it took measurements made a base added different supports fixed a couple of stuff tested each section with the marble to make sure and finally everything is done now all i have to d
 
@@ -90,11 +90,11 @@ And finally after a long time of working i was able to assemble everything toget
 
 Finally i finished it took measurements made a base added different supports fixed a couple of stuff tested each section with the marble to make sure and finally everything is done now all i have to do is work on the github repo and submit
 
-![16](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/837d67475106fa492e1fd66e20e42adb27c74c12f5fc28a77c26220662cb58ce.png)
+![16](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/837d67475106fa492e1fd66e20e42adb27c74c12f5fc28a77c26220662cb58ce.png)
 
-![17](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/cc457dde5f1de3a6c2a670299e0922593b668d0e9a0e4f44ab8a76bfe5d65812.png)
+![17](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/cc457dde5f1de3a6c2a670299e0922593b668d0e9a0e4f44ab8a76bfe5d65812.png)
 
-![18](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/947ddb869b05ba2e0f6e1c1e7d83917056e04a20cbbdd8d83b2248c282198714.png)
+![18](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/947ddb869b05ba2e0f6e1c1e7d83917056e04a20cbbdd8d83b2248c282198714.png)
 
 ### 2026-10-22 – I accidentaly created this i wanted to create it for another poject but ended up creating it here and i cant delete it for some reason i tried everything but cant find any way or button to delete this
 
@@ -102,6 +102,6 @@ Finally i finished it took measurements made a base added different supports fix
 
 I accidentaly created this i wanted to create it for another poject but ended up creating it here and i cant delete it for some reason i tried everything but cant find any way or button to delete this entry so i will just put plank pictures
 
-![Screenshot 2026-10-22 164220](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/5b8630f2d8535c8c39636550cef02bb7b4c89fb5743a3939a93b69d198147410.png)
+![Screenshot 2026-10-22 164220](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/5b8630f2d8535c8c39636550cef02bb7b4c89fb5743a3939a93b69d198147410.png)
 
-![Screenshot 2026-10-22 164239](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/375b8d7f4ab84f2f40dbea05362fe418e010b7bd3bef289ebcf087ccc9bd557c.png)
+![Screenshot 2026-10-22 164239](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/375b8d7f4ab84f2f40dbea05362fe418e010b7bd3bef289ebcf087ccc9bd557c.png)
