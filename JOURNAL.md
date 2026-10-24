@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmv4skzmh0fmv01n08rjjfkpv). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> Trying to make my own marble race
+> Making a nice course for an 8 mm marble: it gets dropped in a curved path then goes into a funnel then into a plinko thing and finally into another curved path and ends up in a cylinder
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
