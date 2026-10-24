@@ -20,10 +20,10 @@ The course is made from separate components. The supports remain separate from t
 
 | Part | What it is used for | Quantity | Price | Vendor |
 |---|---|---:|---:|---|
-| Printing | Printingthepart | 1 | $15.00 (not fully sure got a quote from the bot ) | printerlegion (https://hackclub.enterprise.slack.com/archives/C083P4FJM46) |
+| Printing | Printingthepart | 1 | $1 (I got this quote on printer legion) | printerlegion (https://hackclub.enterprise.slack.com/archives/C083P4FJM46) |
 
-- Parts subtotal: **$15**
-- Tax and shipping: **$15** (Don't know as the bot only gave a quote this is an estimate)
+- Parts subtotal: **$1**
+- Tax and shipping: **$10** (I got this quote on printer legion)
 - Total: **$30**
 
 
