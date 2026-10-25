@@ -16,6 +16,20 @@ The marble starts in a curved path then it drops into the funnel. It travels thr
 The course is made from separate components. The supports remain separate from the tracks but make sure they are attached to the base and unless you are printing everything individually also they are supposed to keep stable whatever they are supporting j
 
 
+## Print Settings
+
+i did some basic research i never acually 3d printed anything but based on what i found these settings should work best for this print feel free to change these values
+ 
+### Print Settings
+- **Material:** PLA
+- **Layer Height:** 0.2mm 
+- **Infill:** 15% to 20% 
+- **Supports:** Enabled
+
+### How the Parts Fit Together
+The supports are physically attached directly to the tracks they are holding meaning they are designed as a single integrated piece and printed together right off the bed it's all one solid print, or if you like you can print everything separatly but then you'd have to glue them.
+
+
 ## Bill of Materials
 
 | Part | What it is used for | Quantity | Price | Vendor |
