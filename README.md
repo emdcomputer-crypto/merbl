@@ -34,11 +34,11 @@ The supports are physically attached directly to the tracks they are holding mea
 
 | Part | What it is used for | Quantity | Price | Vendor |
 |---|---|---:|---:|---|
-| Printing | Printingthepart | 1 | $1 (I got this quote on printer legion) | printerlegion (https://hackclub.enterprise.slack.com/archives/C083P4FJM46) |
+| Printing | Printingthepart | 1 | $22 (I got this quote on printer legion) | printerlegion (https://hackclub.enterprise.slack.com/archives/C083P4FJM46) |
 
-- Parts subtotal: **$1**
-- Tax and shipping: **$10** (I got this quote on printer legion)
-- Total: **$30**
+- Parts subtotal: **$22**
+- Tax and shipping: **$11** (I got this quote on printer legion)
+- Total: **$33**
 
 
 
