@@ -28,7 +28,7 @@
 
 **1.5h**
 
-Well i started watching some tutorials and the guide but honestly the guide is hard to follow because it's not "linear" like i mean the guide only shows how to make certain sections and parts its like a guide filled with lots of mini guides inside wich is not really helpfull if you don't know where to start and how to put togheter all of these parts but yeah i started by making a 100*100 cube and a simple path wich took me a while as understading the guide was hard
+Well i started watching some tutorials and the guide but honestly the guide is hard to follow because it's not "linear" like i mean the guide only shows how to make certain sections and parts its like a guide filled with lots of mini guides inside wich is not really helpfull if you don't know where to start and how to put togheter all of these parts but yeah i started by making a 100*100 cube and a simple path wich took me a while as understading the guide was hard 
 
 ![1](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/4d0a83abfa11ca6389658a2cd0d8597109f5fcbe781aa567e6514b8ded16c7fb.png)
 
@@ -38,7 +38,7 @@ Well i started watching some tutorials and the guide but honestly the guide is h
 
 **2h**
 
-I made a cylinder in the centre 35 mm outer diametre and 25 inner diametre still tho i don't know what im doing and very confused as trying to do anything just breaks a lot of other stuff for example im currently trying to rotate the path i made but it doesn't let me
+I made a cylinder in the centre 35 mm outer diametre and 25 inner diametre still tho i don't know what im doing and very confused as trying to do anything just breaks a lot of other stuff for example im currently trying to rotate the path i made but it doesn't let me 
 
 ![3](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/aafbf16e667ca8ed120f508b9781d5d39dc6f9e484254713684162615903b2c5.png)
 
@@ -48,7 +48,7 @@ I made a cylinder in the centre 35 mm outer diametre and 25 inner diametre still
 
 **2h**
 
-Decided to scrap the old project because it got confusing and i messed up to much  so i  started working on a new one i made a funnel and the marble with 8 mm diameter after that i plan on making a couple of paths a plinko and stair path
+Decided to scrap the old project because it got confusing and i messed up to much  so i  started working on a new one i made a funnel and the marble with 8 mm diameter after that i plan on making a couple of paths a plinko and stair path 
 
 ![5](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/9caa0aa911576bf587c976d922d7cbd8ee794d903e0a467272753fd45ef90419.png)
 
@@ -75,6 +75,8 @@ I made the plinko path following the guide, at first it looked complicated but i
 **4h**
 
 And finally after a long time of working i was able to assemble everything together of course still encountered lots of problems like rotation problems where i had to redo certain part due to it being in the wrong facing thus making it face the wrong way making the transform tool useless as it rotates in the wrong axis, now all that remains is i put some supports, a base and that's it
+
+
 
 ![12](https://halflife.hackclub-assets.com/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/927d0cd95fb672b165edd847968fe2d12ae0278e5dfddb4f63ce28f9bdc0e51b.png)
 
