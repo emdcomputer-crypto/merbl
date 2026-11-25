@@ -48,6 +48,8 @@ The supports are physically attached directly to the tracks they are holding mea
 
 well first of all i learned how to create 3d models made mistakes learned some stuff like tracks faces and profiles learned also some basic and cool functions to make any 3d model wich is a usefull skill i needed because if i get that 3d printer i will be making enclosures for my projects 
 
+
+##Other pictures:
 <img width="1917" height="858" alt="7" src="https://github.com/user-attachments/assets/bdc31e79-8c50-4f87-a283-3f1bea894c4f" />
 <img width="1347" height="829" alt="6" src="https://github.com/user-attachments/assets/bf883a4a-d4fe-4dbc-aa66-81430ce3e00d" />
 <img width="1910" height="943" alt="5" src="https://github.com/user-attachments/assets/40eaca4b-e543-4f9a-8c41-3d4ca7bb473f" />
