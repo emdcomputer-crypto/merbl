@@ -36,6 +36,8 @@ The supports are physically attached directly to the tracks they are holding mea
 |---|---|---:|---:|---|
 | Printing | Printingthepart | 1 | $22 (I got this quote on printer legion) | printerlegion (https://hackclub.enterprise.slack.com/archives/C083P4FJM46) |
 
+
+**(this includes the marble too)
 - Parts subtotal: **$22**
 - Tax and shipping: **$11** (I got this quote on printer legion)
 - Total: **$33**
